@@ -1,0 +1,19 @@
+﻿  Graph.cpp
+  GraphManager.cpp
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(13,11): error C2143: syntax error: missing ';' before '<'
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(13,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(13,76): error C2238: unexpected token(s) preceding ';'
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(16,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(16,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(16,51): error C2238: unexpected token(s) preceding ';'
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\GraphManager.cpp(8,20): error C2011: 'GraphManager': 'class' type redefinition
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\GraphManager.h(6,7): message : see declaration of 'GraphManager'
+  GraphsCPPFinalProj.cpp
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(13,11): error C2143: syntax error: missing ';' before '<'
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(13,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(13,76): error C2238: unexpected token(s) preceding ';'
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(16,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(16,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(16,51): error C2238: unexpected token(s) preceding ';'
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\GraphsCPPFinalProj.cpp(38,33): error C2039: 'shortestPath': is not a member of 'Graph'
+C:\Users\Vlad\Documents\GitHub\CPPFinalProject\GraphsCPPFinalProj\GraphsCPPFinalProj\Graph.h(8,7): message : see declaration of 'Graph'

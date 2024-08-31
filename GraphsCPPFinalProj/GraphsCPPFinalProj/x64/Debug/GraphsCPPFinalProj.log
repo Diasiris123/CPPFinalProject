@@ -1,0 +1,3 @@
+﻿  GraphManager.cpp
+E:\Projects and homework\TriviaAPI\GraphsCPPFinalProj\GraphsCPPFinalProj\GraphManager.cpp(8,20): error C2011: 'GraphManager': 'class' type redefinition
+E:\Projects and homework\TriviaAPI\GraphsCPPFinalProj\GraphsCPPFinalProj\GraphManager.h(6,7): message : see declaration of 'GraphManager'
